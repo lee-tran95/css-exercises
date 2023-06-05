@@ -138,8 +138,8 @@
 }
 
 .sidebar {
-  grid-row: 2 / 4;
   display: grid;
+  grid-row: 2 / 4;
   gap: 50px;
 }
 
